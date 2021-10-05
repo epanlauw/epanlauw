@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Epan Lauw
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity, React, and Node JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on linkedin: Stefanus Dwitra Lauwrendo
 
 <!---
