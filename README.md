@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Epan Lauw
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game and Web Development
 - 🌱 I’m currently learning Unity, React, and Node JS
 - 📫 You can reach me on linkedin: Stefanus Dwitra Lauwrendo
 
